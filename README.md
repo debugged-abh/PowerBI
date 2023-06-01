@@ -1,5 +1,5 @@
 # PowerBI
-Dashboards created using PowerBI 
+
 I have developed a comprehensive U.S. Hospitals Infographics Dashboard utilizing Power BI. This dashboard serves as a platform to present detailed information pertaining to various hospitals across all 50 states. The dashboard is intelligently structured into three distinct sections to enhance usability and facilitate effective data exploration:
 
 Home Page: The primary landing page of the dashboard offers users the ability to select a specific state and subsequently choose a hospital from within the selected state. Upon making these selections, the dashboard dynamically generates and presents an array of visually appealing and informative visuals related to the chosen state and hospital. To provide users with additional insights, buttons are conveniently placed on the interface, which, when clicked, offer concise contextual information regarding the selected state and hospital.
